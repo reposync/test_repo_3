@@ -1,3 +1,6 @@
+user: 1, date: Mon Jun 20 2016 09:59:16 GMT-0700 (PDT)
+user: 1, date: Mon Jun 20 2016 08:56:12 GMT-0700 (PDT)
+user: 1, date: Mon Jun 20 2016 08:03:33 GMT-0700 (PDT)
 user: 1, date: Mon Jun 20 2016 04:09:08 GMT-0700 (PDT)
 user: 1, date: Mon Jun 20 2016 03:22:52 GMT-0700 (PDT)
 user: 1, date: Mon Jun 20 2016 01:19:02 GMT-0700 (PDT)
